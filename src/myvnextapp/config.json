@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "myvnextapp"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-myvnextapp-4e94bf47-66d9-4b0a-b0d9-0a186e2585b5;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
